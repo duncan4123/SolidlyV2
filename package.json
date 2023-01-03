@@ -1,0 +1,13 @@
+{
+  "name": "SolidlyV2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/duncan4123/SolidlyV2.git",
+  "author": "dunks411 <54425677+duncan4123@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@dethcrypto/eth-sdk": "^0.3.3",
+    "@dethcrypto/eth-sdk-client": "^0.1.6"
+  }
+}
