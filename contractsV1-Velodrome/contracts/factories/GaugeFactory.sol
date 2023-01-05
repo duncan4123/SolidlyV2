@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.13;
 
-import 'contracts/interfaces/IGaugeFactory.sol';
-import 'contracts/Gauge.sol';
+import 'contractsV1-Velodrome/contracts/interfaces/IGaugeFactory.sol';
+import 'contractsV1-Velodrome/contracts/Gauge.sol';
 
 contract GaugeFactory is IGaugeFactory {
     address public last_gauge;
